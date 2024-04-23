@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+h1 {text-align: center;
+color: #ea899a;
+font-weight: 700;
+font-size: 70px;
+font-family: "DM serif display", serif;
+margin-bottom: 0%;}
+h2 {text-align: center;
+font-weight: 500;
+font-size: 25px;
+font-family: "DM serif display", serif;
+margin-top: 0;
+margin-bottom: 0%;}
+h3 {color: #ea899a;
+font-weight: 500;
+font-family: "DM serif display", serif;
+text-decoration: underline;
+margin-left: 120px;}
+h4 {font-weight: 300;
+font-family: "montserrat", sans-serif;
+margin-left: 120px;
+margin-right: 120px;}
+}
+h5 {font-size: 15px;
+    font-weight: 400;
+font-family: "montserrat", sans-serif;
+margin-bottom: 5px;
+margin-left: 120px;
+}
+h6 {font-family: "DM serif display", serif;
+color: #ea899a;
+font-weight: 400;
+font-size: 17px;
+margin-bottom: 5px;
+margin-left: 120px;
+}
+img {
+    width: 40%;
+    margin:0;
+    display: flex;
+    border-radius: 3000px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sin-vineta {list-style-type: none;}
+
+#vinculo:hover {font-style: italic;}
+a:hover {text-decoration: underline;}
+a {text-decoration: none;}
+
+
